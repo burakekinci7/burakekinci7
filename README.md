@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hey everyone, I'm Ramazan Burak Ekinci 👋
 
-- ⚡ I'm Computer Engineering student at İstanbul Medeniyet Üniversiesi
+- ⚡ I'm Computer Engineering student at İstanbul Medeniyet University
 - 💻 I’m currently working on Flutter and Java Mobile Applications.
 - ✨ I used Firebase, SQLite, Orcale, MS SQL Servver, 
 
