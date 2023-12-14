@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 ## 👋 Hey everyone, I'm Ramazan Burak Ekinci 👋
 
 - ⚡ I'm Computer Engineering student at İstanbul Medeniyet University
-- 💻 I’m currently working on Flutter and Java Mobile Applications.
-- ✨ I used Firebase, SQLite, Orcale, MS SQL Servver, 
+- 💻 I’m currently working on Flutter, Java, Swift Mobile Applications.
+- ✨ I used Firebase, SQLite, Orcale, MS SQL Servver,
+- ß  Get, Posti Put, Delete (Back-end) operations with SPRING BOOT
+- 🌱  Full Stack Mobile developer
 
 ### interests 
 <a href="https://flutter.dev/" target="blank" ><img align="center" src="https://github.com/burakekinci7/RamazanBurakEkinci/blob/main/flutter.png" title = "Flutter" alt="" height="60" /></a>
