@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ### Find me all around the social media:
 <a href="http://www.twitter.com/burakekinc1/" target="blank"><img align="center"  src="https://github.com/burakekinci7/burakekinci7/blob/main/x.jpeg" title = "X(Twitter)" alt="" height="60" /></a>
 <a href="https://www.instagram.com/burakeknc1/" target="blank"><img align="center"  src="https://github.com/burakekinci7/burakekinci7/blob/main/instagram.png" title = "Instagram" alt="" height="60" /></a>
-<a href="https://github.com/burakekinci7/burakekinci7/blob/main/linkedin.png" target="blank"><img align="center" src="https://github.com/burakekinci7/RamazanBurakEkinci/blob/main/linkedin.png"  title = "LinkedIn" alt="" height="60" /></a>
+<a href="https://www.linkedin.com/in/ramazan-burak-ekinci-0369281ba/" target="blank"><img align="center" src="https://github.com/burakekinci7/burakekinci7/blob/main/linkedin.png"  title = "LinkedIn" alt="" height="60" /></a>
