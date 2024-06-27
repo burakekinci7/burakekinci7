@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hey everyone, I'm Ramazan Burak Ekinci 👋
 
-- ⚡ I'm Computer Engineering student at İstanbul Medeniyet University
-- 💻 I’m currently working on Flutter, Java, Swift Mobile Applications.
-- ✨ I used Firebase, SQLite, Orcale, MS SQL Servver,
-- ß  Get, Posti Put, Delete (Back-end) operations with SPRING BOOT
+- ⚡   I'm Computer Engineering student at İstanbul Medeniyet University
+- 💻  I’m currently working on Flutter, Java, Swift Mobile Applications.
+- ✨  I used Firebase, SQLite, Orcale, MS SQL Servver, Posgresql
+- ß   Get, Post, Put, Delete (Back-end) operations with Node.js(fav) and Spring boot 
 - 🌱  Full Stack Mobile developer
 
 ### interests 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href="https://developer.android.com/" target="blank"><img align="center"  src="https://github.com/burakekinci7/burakekinci7/blob/main/android.png" title = "Android" alt="" height="60" /></a>
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://github.com/burakekinci7/burakekinci7/blob/main/firebase.png" title = "Firebase" alt="" height="60" /></a>
 <a href="https://www.swift.org/" target="blank"><img align="center" src="https://github.com/burakekinci7/burakekinci7/blob/main/swift.jpeg" title = "Swift" alt="" height="60" /></a>
+<a href="https://nodejs.org/en/" target="blank"><img align="center" src="https://github.com/burakekinci7/burakekinci7/blob/main/nodejs.png" title = "NodeJs" alt="" height="60" /></a>
 
 
 ### Find me all around the social media:
